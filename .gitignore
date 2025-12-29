@@ -18,9 +18,15 @@ Packages/
 # Build artifacts
 *.app/
 *.zip
+PomodoroApp
 
 # Compiled binaries
 CreateIcon
+CreateIcon.swift
+create_icon.sh
 
 # Icon generation temp files
 *.iconset/
+
+# Images
+head.png
