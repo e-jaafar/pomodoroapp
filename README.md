@@ -18,7 +18,7 @@ A lightweight Pomodoro timer that lives in your macOS menu bar. Built with Swift
 
 | Settings | Tasks |
 |----------|-------|
-| ![Settings](https://i.ibb.co/5xJcHVXM/Capture-d-e-cran-2025-12-29-a-16-21-58.png) | ![Tasks](https://i.ibb.co/7JrMMT1K/Capture-d-e-cran-2025-12-29-a-16-23-03.png) |
+| ![Settings](https://i.ibb.co/G3rPSjfx/Capture-d-e-cran-2025-12-29-a-16-21-58.png) | ![Tasks](https://i.ibb.co/5WsppzRL/Capture-d-e-cran-2025-12-29-a-16-23-03.png) |
 
 ## Installation
 
