@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+
+# Build artifacts
+*.app/
+*.zip
+
+# Compiled binaries
+CreateIcon
+
+# Icon generation temp files
+*.iconset/
